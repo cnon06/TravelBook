@@ -5,4 +5,9 @@ In this project, I used Google Maps to enable location selection on the map. I s
 
 https://www.youtube.com/watch?v=AP8QDCqHLZw
 
+In order for the application to work properly, you must add the API KEY you received from Google Cloud to the relevant place in the Android Manifest.
+
+<img width="559" height="626" alt="image" src="https://github.com/user-attachments/assets/8228d4a3-61c0-42fc-bf7d-b2be6c114e9e" />
+
+
 
